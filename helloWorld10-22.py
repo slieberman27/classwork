@@ -7,4 +7,4 @@ y = "red";
 
 if x == 10:
     print(x , y);
-#should print "10 red"
+#should print "10 red" if x = 10
