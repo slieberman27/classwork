@@ -5,5 +5,6 @@ x = 10;
 y = "red";
 #declaring variable values
 
-print(x , y);
+if x == 10:
+    print(x , y);
 #should print "10 red"
